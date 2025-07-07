@@ -4,7 +4,6 @@ test = {   'name': 'q2_0_1',
     'points': None,
     'suites': [   {   'cases': [   {'code': '>>> 0 < probability_large_shiny < 1\nTrue', 'hidden': False, 'locked': False},
                                    {   'code': '>>> import hashlib\n'
-                                               '>>> \n'
                                                '>>> def get_hash(num):\n'
                                                '...     """Helper function for assessing correctness."""\n'
                                                '...     return hashlib.md5(str(num).encode()).hexdigest()\n'
