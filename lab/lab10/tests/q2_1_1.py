@@ -3,7 +3,6 @@ OK_FORMAT = True
 test = {   'name': 'q2_1_1',
     'points': None,
     'suites': [   {   'cases': [   {   'code': '>>> import hashlib\n'
-                                               '>>> \n'
                                                '>>> def get_hash(num):\n'
                                                '...     """Helper function for assessing correctness."""\n'
                                                '...     return hashlib.md5(str(num).encode()).hexdigest()\n'

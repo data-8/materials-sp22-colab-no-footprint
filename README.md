@@ -1,8 +1,8 @@
-# materials-sp22-colab-no-footprint
+# materials-fds-colab-no-footprint
 
 # Start Here 
 
-[https://colab.research.google.com/github/data-8/materials-sp22-colab-no-footprint](https://colab.research.google.com/github/data-8/materials-sp22-colab-no-footprint)
+[https://colab.research.google.com/github/data-8/materials-fds-colab-no-footprint](https://colab.research.google.com/github/data-8/materials-fds-colab-no-footprint)
 
 
 ## This will give you a navigational menu - from which you need to pick the notebook to open

@@ -6,7 +6,6 @@ test = {   'name': 'q1_1',
                                    {'code': '>>> np.allclose(np.array(ab_test_order)[:3] % 2 == 1, True)\nTrue', 'hidden': False, 'locked': False},
                                    {'code': '>>> np.allclose(np.array(ab_test_order)[3:] % 2 == 0, True)\nTrue', 'hidden': False, 'locked': False},
                                    {   'code': '>>> import hashlib\n'
-                                               '>>> \n'
                                                '>>> def get_hash(num):\n'
                                                '...     """Helper function for assessing correctness."""\n'
                                                '...     return hashlib.md5(str(num).encode()).hexdigest()\n'
